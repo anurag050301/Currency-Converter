@@ -1,4 +1,4 @@
-#Currency Converter Web Application
+Currency Converter
 
 This project is a professional-grade currency converter web application built with modern web development technologies:
 
